@@ -6,7 +6,7 @@ Hi! I'm Rohit, a passionate NLP and Computer Vision enthusiast. I thrive on expl
 
 - 🔭 I’m currently working on **building cost effective RAG Chatbots and Semantic Search Engines.**
 
-- 🌱 I’m currently learning latest on **NLP, LLMs and ML for 3D.**
+- 🌱 I’m currently learning latest on **NLP, LLMs and ML for Generative 3D.**
 
 - 📫 How to reach me **rohit5895@gmail.com**
 
