@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Rao</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit5895&label=Profile%20views&color=0e75b6&style=flat" alt="rohit5895" /> </p>
 
-**About Me**
+**About Me**\
 Hi! I'm Rohit, a passionate NLP and Computer Vision enthusiast. I thrive on exploring the intricacies of natural language processing, machine learning, and deep learning. My journey in the world of technology is fueled by a curiosity for innovative and cost effective solutions for organizations I work with and a commitment to continuous learning. 
 
 - 🔭 I’m currently working on **building cost effective RAG Chatbots and Semantic Search Engines.**
