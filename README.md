@@ -8,7 +8,7 @@ Hi! I'm Rohit, a passionate NLP and Computer Vision enthusiast. I thrive on expl
 
 - 🌱 I’m currently learning latest on **NLP, LLMs and ML for Generative 3D.**
 
-- 📫 How to reach me **rohit5895@gmail.com**
+- 📫 I can be reached at **rohit5895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
