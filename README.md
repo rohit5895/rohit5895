@@ -70,14 +70,6 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit5895&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit5895&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
 
 ###  Education
 
