@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 Data Scientist with **5+ years** of experience building **production ML systems**, **agentic AI workflows**, and **high-throughput data pipelines** for commodity markets. I specialize in delivering cost-optimized AI solutions — from search APIs with **sub-10s latency and 43% cost reduction** to OCR pipelines that boosted trade capture by **70x**.
 
@@ -20,7 +20,7 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ---
 
-### 🔭 What I'm Working On
+###  What I'm Working On
 
 - **Conversational AI for Commodity Analytics** — Deployed a backend powering natural language analytics across **5,000+ commodity products**.
 - **Agentic Search API** — Built with LangGraph, achieving **7s P99 latency**, **$0.03/query cost**, and **20x prompt cache reuse**.
@@ -29,14 +29,14 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ---
 
-### 🧪 Research & Side Projects
+###  Research & Side Projects
 
 - **Open-Source Document Intelligence Pipeline** — Eliminated dependency on commercial extraction APIs by fine-tuning **Qwen2-VL-7B** with LoRA and building a pipeline with **Docling** and **Gemma3-4B**. Achieved **92% extraction accuracy** at **70% lower inference cost** on 500+ LED technical datasheets.
 - **KV Cache & Prompt Prefix Caching: From Scratch with Qwen3-0.6B** - Building a from-scratch KV cache and prompt prefix cache for Qwen3-0.6B, benchmarking TTFT speedup and memory trade-offs across prefix lengths and concurrent users.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **AI & ML Systems**
 
@@ -70,7 +70,7 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohit5895&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub stats" height="165" />
@@ -79,7 +79,7 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **MS, Business Analytics** — The University of Texas at Dallas (2023)
 - **B.Tech** — Bharati Vidyapeeth University, Pune (2018)
