@@ -22,7 +22,7 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 
 ### 🔭 What I'm Working On
 
-- **Conversational AI for Commodity Analytics** — Deployed a backend powering natural language analytics across **5,000+ commodity products** on GXGo, increasing user interaction by 25%.
+- **Conversational AI for Commodity Analytics** — Deployed a backend powering natural language analytics across **5,000+ commodity products**.
 - **Agentic Search API** — Built with LangGraph, achieving **7s P99 latency**, **$0.03/query cost**, and **20x prompt cache reuse**.
 - **MCP Server for Claude Integration** — Integrated 5+ data tools enabling Claude-powered real-time commodity analytics for internal teams.
 - **High-Throughput OCR Pipelines** — Fine-tuned YoloV8 + TrOCR (0% Character Error Rate) with advanced CV techniques and image caching for a **70x increase** in daily trade capture.
@@ -32,6 +32,7 @@ Currently at **General Index (GX)** in Houston, TX, where I build AI-powered too
 ### 🧪 Research & Side Projects
 
 - **Open-Source Document Intelligence Pipeline** — Eliminated dependency on commercial extraction APIs by fine-tuning **Qwen2-VL-7B** with LoRA and building a pipeline with **Docling** and **Gemma3-4B**. Achieved **92% extraction accuracy** at **70% lower inference cost** on 500+ LED technical datasheets.
+- **KV Cache & Prompt Prefix Caching: From Scratch with Qwen3-0.6B** - Building a from-scratch KV cache and prompt prefix cache for Qwen3-0.6B, benchmarking TTFT speedup and memory trade-offs across prefix lengths and concurrent users.
 
 ---
 
